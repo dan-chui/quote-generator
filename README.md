@@ -1,3 +1,4 @@
+
 # Quote Generator
 
 A page that fetches inspirational quotes using an API. It is mobile-responsive and can link externally to Twitter. 
@@ -17,4 +18,4 @@ To run the site on your local machine:
 4) Alternatively, you can click on the following Site Link to view.
 ## Demo
 
-![](images/Screenshot.png)
+![](Screenshot.png)
