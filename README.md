@@ -18,4 +18,3 @@ To run the site on your local machine:
 ## Demo
 
 ![](images/Screenshot.png)
-
