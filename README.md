@@ -18,4 +18,4 @@ To run the site on your local machine:
 4) Alternatively, you can click on the following Site Link to view.
 ## Demo
 
-![](images/Screenshot.png)
+![](/assets/Screenshot.png)
