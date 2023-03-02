@@ -1,7 +1,7 @@
 
 # Quote Generator
 
-A page that fetches inspirational quotes using an API. It is mobile-responsive and can link externally to Twitter. 
+A page that fetches inspirational quotes using an API from Type Fit. It is mobile responsive and can link externally to Twitter. 
 
 
 ## Tech Stack
